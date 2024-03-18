@@ -1,13 +1,15 @@
 # ML-heart.csv
 
-kaggle heart.csv dataset : # https://www.kaggle.com/datasets/arezaei81/heartcsv
+kaggle heart.csv dataset : # https://www.kaggle.com/datasets/arezaei81/heartcsv  
 
-Models Used : LinearSVC, NuSVC, SVC
-              KNeighborsClassifier
-              LogisticRegression
-              RandomForestClassifier
+predict diabetes (binary classification)  
 
-checked for scores with/without preprocessing (onehotencoding/normalization)
-models have been compared, scores have been plotted 
+Models Used : LinearSVC, NuSVC, SVC  
+              KNeighborsClassifier  
+              LogisticRegression  
+              RandomForestClassifier  
+
+checked for scores with/without preprocessing (onehotencoding/normalization)  
+models have been compared, scores have been plotted   
 
 
