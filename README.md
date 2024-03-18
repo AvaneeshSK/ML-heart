@@ -4,7 +4,9 @@ kaggle heart.csv dataset : # https://www.kaggle.com/datasets/arezaei81/heartcsv
 
 predict diabetes (binary classification)  
 
-Models Used : LinearSVC, NuSVC, SVC  
+Models Used : 
+
+              LinearSVC, NuSVC, SVC  
               KNeighborsClassifier  
               LogisticRegression  
               RandomForestClassifier  
